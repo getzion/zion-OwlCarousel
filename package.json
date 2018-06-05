@@ -1,0 +1,22 @@
+{
+  "name": "zion-owlcarousel",
+  "version": "1.0.0-alpha",
+  "description": "",
+  "main": "dist/js/main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getzion/zion-OwlCarousel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getzion/zion-OwlCarousel/issues"
+  },
+  "homepage": "https://github.com/getzion/zion-OwlCarousel#readme",
+  "dependencies": {
+    "owl.carousel": "^2.3.4"
+  }
+}

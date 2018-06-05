@@ -1,0 +1,8 @@
+{
+    "copy": [
+        {
+            "from" : "node_modules/owl.carousel/dist/assets/{*.gif,*.png}",
+            "to" : "src/images"
+        }
+    ]
+}
